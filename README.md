@@ -5,7 +5,7 @@
 
 ## 📷 Dashboard Preview
 
-![Hotel Booking Dashboard](hotel_dashboard.png)
+![Hotel Booking Dashboard](https://github.com/Kalyanikhapale/Hotel-Booking-Analysis-/blob/main/Dashboard%20Image.png)
 
 ---
 
